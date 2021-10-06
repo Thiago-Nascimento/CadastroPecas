@@ -25,7 +25,7 @@ let numero = 35         // Number
 // 35 + 35 -> 70
 // "35" + "35" -> "3535"
 
-let nomePeca = listaPecas[0];
+let nomePeca = listaPecas[2];
 
 if(nomePeca.length > 3) {
     console.log("Nome da peça é válido, pode seguir com o cadastro");
